@@ -1,4 +1,4 @@
-# Hey there i´m **Israel Pérez**
+# Hey there I´m **Israel Pérez**
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Specialist;Data+Enthusiast;IoT+Developer;Always+Learning+New+Technologies" />
