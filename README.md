@@ -73,11 +73,6 @@ Actualmente estudio en la **Universidad Tecnológica de Tula-Tepeji (UTTT)** y m
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Israel-Perez&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israel-Perez&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Israel-Perez&theme=radical&hide_border=true"/>
 </p>
 
